@@ -1,5 +1,5 @@
 # AssertTest
-The Challenge
+## The Challenge
 The aim of the exercise is to demonstrate your problem solving and understanding of JavaScript by implementing something found in every unit testing tool - an "assertEquals" method.
 
 - Fill in the "assertEquals" function such that it will correctly compare "expected" vs "actual" parameters passed to it, including all the sample test data provided.
